@@ -1,3 +1,4 @@
+package edu.andreza.segundasemana;
 public class MinhaClasse {
     public static void main(String[] args) { 
         
