@@ -1,11 +1,12 @@
-public class SmartTv {
+public class SmartTv { 
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
+    //3 características a níveis da classe
 
     //métodos que manipulam os estados
-    public void mudarCanal(int novoCanal) {
-        canal = novoCanal;
+    public void mudarCanal(int novoCanal) { //novoCanal é parâmetro, disponível só nesse bloco de método
+        canal = novoCanal; 
         System.out.println("Mudando para o canal: " + canal);
     }
     public void aumentarCanal() {
