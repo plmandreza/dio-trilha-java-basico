@@ -16,7 +16,9 @@ public class Main { //programa java começa e termina no método main
 
     static void b() {
         System.out.println("Entrou no método b");
-        for(int i = 0; i <= 4; i++) System.out.println(i); //laço de repetição imprime 0, 1, 2 e 3
+        for(int i = 0; i <= 4; i++)
+        	//no Eclipse IDE precisa pular linha v
+        	System.out.println(i); //laço de repetição imprime 0, 1, 2 e 3
         c();
         System.out.println("Finalizou o método b");
     }
