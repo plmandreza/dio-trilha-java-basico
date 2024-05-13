@@ -28,3 +28,8 @@ java-terminal/.vscode/settings.json
 ContaBanco/.vscode/settings.json
 controle-fluxo/.vscode/settings.json
 /.metadata/
+simulacao-bancaria/.vscode/settings.json
+verificador-elegibilidade-conta/.vscode/settings.json
+verificador-numero-conta/.vscode/settings.json
+verificacao-cheque-especial/.vscode/settings.json
+controle-simples-de-saques/.vscode/settings.json
