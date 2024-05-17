@@ -23,4 +23,12 @@ public class Pessoa {
 	public void setEndereco(String endereco) {
 		this.endereco = endereco;
 	}
+	// mais exemplos de construtores
+	public Pessoa() {
+		super();
+	}
+	public Pessoa(String nome) {
+		super();
+		this.nome = nome;
+	}
 }
