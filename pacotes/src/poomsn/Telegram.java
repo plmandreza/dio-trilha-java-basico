@@ -1,13 +1,13 @@
 package poomsn;
 
-public class MSNMessenger {
+public class Telegram {
 	public void enviarMensagem() {
 		validarConectadoInternet(); //encapsulamento
-		System.out.println("Enviando mensagem pelo MSN Messenger");
+		System.out.println("Enviando mensagem pelo Telegram");
 		salvarHistoricoMensagem(); //encapsulamento
 	}
 	public void receberMensagem() {
-		System.out.println("Recebendo mensagem pelo MSN Messenger");
+		System.out.println("Recebendo mensagem pelo Telegram");
 	}
 	private void validarConectadoInternet() { //encapsulamento
 		System.out.println("Validando se está conectado à internet");

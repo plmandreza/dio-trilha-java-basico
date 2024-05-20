@@ -1,13 +1,13 @@
 package poomsn;
 
-public class MSNMessenger {
+public class FacebookMessenger {
 	public void enviarMensagem() {
 		validarConectadoInternet(); //encapsulamento
-		System.out.println("Enviando mensagem pelo MSN Messenger");
+		System.out.println("Enviando mensagem pelo Facebook Messenger");
 		salvarHistoricoMensagem(); //encapsulamento
 	}
 	public void receberMensagem() {
-		System.out.println("Recebendo mensagem pelo MSN Messenger");
+		System.out.println("Recebendo mensagem  pelo Facebook Messenger");
 	}
 	private void validarConectadoInternet() { //encapsulamento
 		System.out.println("Validando se está conectado à internet");
