@@ -1,16 +1,10 @@
 package poomsn;
 
 public class MSNMessenger extends ServicoMensagemInstantanea {
-
-	@Override
-	public void enviarMensagem() {
-		// TODO Auto-generated method stub
-		
+	public void enviarMensagem() { //abstração
+		System.out.println("Enviando mensagem pelo MSN Messenger");	
 	}
-
-	@Override
-	public void receberMensagem() {
-		// TODO Auto-generated method stub
-		
+	public void receberMensagem() { //abstração
+		System.out.println("Recebendo mensagem pelo MSN Messenger");
 	} 
 }
