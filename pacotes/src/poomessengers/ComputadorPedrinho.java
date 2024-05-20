@@ -1,4 +1,9 @@
-package poomsn;
+package poomessengers;
+
+import apps.FacebookMessenger;
+import apps.MSNMessenger;
+import apps.ServicoMensagemInstantanea;
+import apps.Telegram;
 
 public class ComputadorPedrinho {
 	public static void main(String[] args) {
@@ -18,7 +23,7 @@ public class ComputadorPedrinho {
 			smi = new FacebookMessenger();
 		else if(appEscolhido.equals("tlg"))
 			smi = new Telegram();
-			
+					
 		smi.enviarMensagem();
 		smi.receberMensagem();
 	}
