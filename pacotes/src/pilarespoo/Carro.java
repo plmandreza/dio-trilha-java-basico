@@ -2,12 +2,14 @@ package pilarespoo;
 
 public class Carro {
 	public void ligar() {
+		confereCambio(); //encapsulamento
+		confereCombustivel(); //encapsulamento
 		System.out.println("Carro ligado");
 	}
-	public void confereCombustivel() {
+	private void confereCombustivel() {
 		System.out.println("Conferindo combustível");
 	}
-	public void confereCambio() {
+	private void confereCambio() {
 		System.out.println("Conferindo câmbio em P");
 	}
 }
