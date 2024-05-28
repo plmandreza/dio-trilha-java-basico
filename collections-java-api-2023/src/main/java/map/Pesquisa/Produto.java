@@ -1,11 +1,11 @@
-package main.java.list.Operacoesbasicas;
+package main.java.map.Pesquisa;
 
-public class Item {
+public class Produto {
     private String nome;
     private double preco;
     private int quantidade;
 
-    public Item(String nome, double preco, int quantidade) {
+    public Produto(String nome, double preco, int quantidade) {
         this.nome = nome;
         this.preco = preco;
         this.quantidade = quantidade;
@@ -25,10 +25,10 @@ public class Item {
 
     @Override
     public String toString() {
-        return nome + '\'' +
+        return "Produto{" +
+                "nome='" + nome + '\'' +
                 ", preco=" + preco +
                 ", quantidade=" + quantidade +
                 '}';
     }
-
 }
