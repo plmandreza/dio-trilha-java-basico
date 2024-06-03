@@ -32,7 +32,6 @@ public class Main {
 		cc2.imprimirExtrato();
 		poupanca2.imprimirExtrato();
 		
-		
 		banco.listarClientes();
 	}
 
