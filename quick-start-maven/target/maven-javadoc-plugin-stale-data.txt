@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Andreza/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar;C:/Users/Andreza/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/Andreza/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar;C:/Users/Andreza/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar;C:/Users/Andreza/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/Andreza/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/estudos/dio/dio-trilha-java-basico/quick-start-maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/estudos/dio/dio-trilha-java-basico/quick-start-maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'quick-start-maven 1 API'
+-use
+-version
+-windowtitle
+'quick-start-maven 1 API'
+one.digitalinnovation
+'D:/estudos/dio/dio-trilha-java-basico/quick-start-maven/src/main/java/one/digitalinnovation/App.java'
+C:\Users\Andreza\.m2\repository\org\hibernate\validator\hibernate-validator\8.0.1.Final\hibernate-validator-8.0.1.Final.jar = 1718117229840
+C:\Users\Andreza\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1718117229869
+C:\Users\Andreza\.m2\repository\org\jboss\logging\jboss-logging\3.4.3.Final\jboss-logging-3.4.3.Final.jar = 1718117229895
+C:\Users\Andreza\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar = 1718117229892
+C:\Users\Andreza\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar = 1718117877333
+C:\Users\Andreza\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar = 1718117877353
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\src\main\java = 1718114037330
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\allclasses-index.html = 1718120701224
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\allpackages-index.html = 1718120701226
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\element-list = 1718120701190
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\help-doc.html = 1718120701251
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\index-all.html = 1718120701239
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\index.html = 1718120701244
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\member-search-index.js = 1718120701230
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\module-search-index.js = 1718120701227
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\overview-tree.html = 1718120701215
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\package-search-index.js = 1718120701228
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\search.html = 1718120701242
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\tag-search-index.js = 1718120701231
+D:\estudos\dio\dio-trilha-java-basico\quick-start-maven\target\site\apidocs\type-search-index.js = 1718120701229
