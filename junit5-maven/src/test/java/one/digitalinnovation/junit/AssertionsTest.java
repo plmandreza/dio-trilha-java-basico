@@ -20,7 +20,8 @@ public class AssertionsTest {
         int [] segundoLancamento = {10, 20, 30, 40, 50};
 
 //        Assertions.assertArrayEquals(primeiroLancamento, segundoLancamento);
-        assertArrayEquals(primeiroLancamento, segundoLancamento);
+//        assertArrayEquals(primeiroLancamento, segundoLancamento);
+        fail("Erro no teste");
     }
 
     @Test
